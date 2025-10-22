@@ -5,8 +5,6 @@ print("Hello, World!")
 
 # Take input from user
 name = input("Enter your name: ")
-
-# Display a greeting
 print("Hello,", name, "! Welcome to Python programming.")
 
 # Simple math operation
